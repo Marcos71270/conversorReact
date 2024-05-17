@@ -34,7 +34,7 @@ function App() {
 
   if (logueado) {
     return (<Conversor/>)
-  }g 
+  }
 
   return (
     <>
